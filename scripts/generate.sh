@@ -3,7 +3,7 @@
 ### First "git clone https://github.com/InventivetalentDev/jjdoc-bungee.git"
 ### cd scripts
 
-DOCLET_VERSION="1.0.3"
+DOCLET_VERSION="1.0.4"
 
 # Create temp directory & cd into it
 mkdir temp
